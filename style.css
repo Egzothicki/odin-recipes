@@ -3,8 +3,8 @@ h1 {
   background-color: rgb(26, 81, 198);
   text-align: center;
   font-weight: bold;
-  font-size: 28px;
-  font-family: "Verdana", "DejaVu Sans", serif;
+  font-size: 45px;
+  font-family: 'Brush Script MT', sans-serif;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
   padding: 10px 0;
   margin-bottom: 20px;
@@ -18,7 +18,7 @@ h2, h3 {
     text-align: center;
     font-weight: bold;
     font-size: 22px;
-    font-family: "Verdana", "DejaVu Sans", serif;
+    font-family: 'Brush Script MT', sans-serif;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
     padding: 10px 0;
     margin-bottom: 20px;
@@ -117,10 +117,13 @@ footer .button:hover {
   list-style-type: none; /* Removes bullets */
   padding: 0;
   margin: 0;
+  font-family: 'Brush Script MT', sans-serif;
 }
 
 .nav-list li {
   margin: 10px 0;
+  font-family: 'Brush Script MT', sans-serif;
+  font-size: 30px;
 }
 
 .nav-list li a {
